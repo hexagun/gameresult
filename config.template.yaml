@@ -1,0 +1,4 @@
+environment: "${ENVIRONMENT}"
+gameresult:
+  port: ${GAMERESULT_PORT}
+
